@@ -1,0 +1,60 @@
+drawer:
+  like: "Like"
+  more: "More Apps"
+  premium: "Premium Version"
+
+url:
+  contact: "https://seniorlaguna.github.io/contact.html"
+  privacyPolicy : "https://seniorlaguna.github.io/qr-code-reader/privacy.html"
+  termsOfUse : "https://seniorlaguna.github.io/qr-code-reader/terms.html"
+
+  like: "https://play.google.com/store/apps/details?id=org.seniorlaguna.qrcodereader.qr_code_reader"
+  premiumApp: 
+  moreApps: https://play.google.com/store/apps/developer?id=Senior+Laguna
+
+like_request_dialog:
+  name: "Feedback?"
+  description: "We' d love to hear what you are thinking about our app."
+  cancel: "Nope"
+  ok: "Okay"
+
+settings:
+  name: "Settings"
+  legales:
+    name: "Legales"
+    description: ""
+  contact:
+    name: "Contact"
+    description: ""
+  privacyPolicy:
+    name: "Privacy Policy"
+    description: ""
+  termsOfUse:
+    name: "Terms of Use"
+    description: ""
+  about:
+    name: "About"
+    description: ""
+  
+
+
+settings_dialog:
+  cancel: Cancel
+  save: Save
+
+about_dialog:
+  text: "Thank you very much for using our app! :)"
+
+screen:
+  MainScreen:
+    actions:
+      action0: "Settings"
+    drawer:
+      item0: "One"
+    tabs:
+
+more: "More"
+start: "Start Scanning"
+end: "Finish Scanning"
+got_it: "Got It"
+detected: "QR Code detected"
